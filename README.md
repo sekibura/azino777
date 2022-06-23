@@ -45,4 +45,4 @@ of use. При нажатии на privacy policy and terms of use на ново
 (!) Только вертикальное расположение экрана
 
 
-https://user-images.githubusercontent.com/51335422/175339916-a3176c69-9378-4ac5-876a-23243bb7bf38.mp4
+
