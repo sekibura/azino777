@@ -58,6 +58,7 @@ public class GameplayView : View
     {
         base.Show(parameter);
         _buttonPlay.interactable = true;
+        _slotGameManager.ResetScore();
     }
 
 }

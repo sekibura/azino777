@@ -8,6 +8,7 @@ public class BaseSettings : MonoBehaviour
     void Start()
     {
         Application.targetFrameRate = 120;
+        Screen.sleepTimeout = SleepTimeout.NeverSleep;
 #if UNITY_ANDROID
         Screen.fullScreen = false;
 #endif

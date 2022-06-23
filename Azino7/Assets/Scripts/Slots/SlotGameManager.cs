@@ -33,6 +33,7 @@ public class SlotGameManager : MonoBehaviour
         _topInfiniteScroll.OnStoped += GameStoped;
         _bottomInfiniteScroll.OnStoped += GameStoped;
     }
+   
 
     public int Score
     {
@@ -41,7 +42,7 @@ public class SlotGameManager : MonoBehaviour
 
     public void Play()
     {
-        ScoreUpdate(false);
+        
         _isStoped = false;
         _topInfiniteScroll.Play();
         _bottomInfiniteScroll.Play();
