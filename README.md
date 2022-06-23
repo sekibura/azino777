@@ -45,4 +45,4 @@ of use. При нажатии на privacy policy and terms of use на ново
 (!) Только вертикальное расположение экрана
 
 
-
+https://www.youtube.com/watch?v=W6J8YxGMBoI
