@@ -24,6 +24,7 @@ public class MenuView : View
     private void StartGame()
     {
         Debug.Log("Start Game");
+        ViewManager.Show<GameplayView>();
     }
 
     public void OnClickTermsPrivacy()
